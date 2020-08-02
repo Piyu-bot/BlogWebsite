@@ -1,2 +1,2 @@
 ﻿# django_project
- preview : [youtube_video]{link}
+ [##preview](https://www.youtube.com/watch?v=T_51j0ePy1o)
